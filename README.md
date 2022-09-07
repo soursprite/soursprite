@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @soursprite
-- 👀 I’m interested in SE
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on cool projects
+- 👋 Hi, I’m James!
+
+- 💞️ I'm eager to work on developing tangible products and collaborate and learn with enthusiastic developers.
 - 📫 Reach me at:
+- webby: goldenjems.netlify.app
 - Twitter: @soursprite
 - email: jemsgold21 at gmail
 
