@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **React.js and Ember.js**
 
+- 💬 Ask me about **Cool ideas for games**
+
+- 📫 How to reach me **jemsgold21 (at) gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/soursprite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="soursprite" height="30" width="40" /></a>
